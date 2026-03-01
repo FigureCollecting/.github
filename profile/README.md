@@ -1,14 +1,13 @@
 # FigureCollecting
 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Ffigurecollecting.com&label=figurecollecting.com)](https://figurecollecting.com)
+[![FigureCollecting](https://figurecollecting.com/splash-bg.png)](https://figurecollecting.com)
 Your personal figure collection catalog — built by collectors, for collectors.
-
-**[figurecollecting.com](https://figurecollecting.com)**
 
 ## What is FigureCollecting?
 
 FigureCollecting is a web application for cataloging and organizing anime figure collections. It integrates with
-[MyFigureCollection](https://myfigurecollection.net) to sync your collection data, providing fast search, flexible layouts, and powerful organization
-tools.
+[MyFigureCollection](https://myfigurecollection.net) to sync your collection data, providing fast search, flexible layouts, and powerful organization tools.
 
 ### Features
 
